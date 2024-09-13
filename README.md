@@ -1,6 +1,6 @@
 # Mars Weather Analysis
 
-This assignment analyzes and visualizes weather data from the Curiosity rover on Mars.
+This assignment analyses and visualizes weather data from the Curiosity rover on Mars.
 
 ## Part 1: Scraping Mars News
 
